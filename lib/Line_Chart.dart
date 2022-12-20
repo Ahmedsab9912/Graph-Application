@@ -25,6 +25,7 @@ class _LineChartState extends State<LineChart> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
+          backgroundColor: Colors.black,
           title:  Text('LINE CHART'),
         ),
         body:
